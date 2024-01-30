@@ -1,6 +1,6 @@
 @font-face {
   font-family: "iconfont"; /* Project id  */
-  src: url('iconfont.ttf?t=1706592943358') format('truetype');
+  src: url('iconfont.ttf?t=1706601715666') format('truetype');
 }
 
 .iconfont {
@@ -21,5 +21,21 @@
 
 .icon-github:before {
   content: "\e64c";
+}
+
+.icon-kuwoyinle:before {
+  content: "\e678";
+}
+
+.icon-kugouyinle:before {
+  content: "\eb7d";
+}
+
+.icon-QQyinle:before {
+  content: "\eb7e";
+}
+
+.icon-wangyiyunyinle:before {
+  content: "\eb7f";
 }
 
