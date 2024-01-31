@@ -1,0 +1,23 @@
+{
+    "cores": [
+        "Arclight",
+        "BungeeCord",
+        "CatServer",
+        "Folia",
+        "Forge",
+        "lightfall",
+        "lightfall-client",
+        "Mohist",
+        "NukkitX",
+        "Paper",
+        "PocketMine",
+        "Pufferfish",
+        "Purpur",
+        "Spigot",
+        "SpongeForge",
+        "SpongeVanilla",
+        "Vanilla",
+        "Velocity",
+        "Waterfall"
+    ]
+}
